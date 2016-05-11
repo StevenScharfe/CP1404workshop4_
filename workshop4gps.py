@@ -21,3 +21,8 @@ while yearcounter < 11:
     population += increase - decrease
     print("{} gophers were born. {} died.\nPopulation: {}\n".format(increase, decrease, population))
     yearcounter += 1
+
+def func_1
+    number = 1
+    while number = 1
+        print("Lol")
